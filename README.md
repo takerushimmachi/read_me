@@ -21,7 +21,7 @@
 
 
 ### 機能一覧
-https://docs.google.com/spreadsheets/d/1Cyqf87vdxr4FEnYxXhfU6XkXXZSWtJnRTIjGAxf2E4M/edit#gid=0
+https://docs.google.com/spreadsheets/d/1Cyqf87vdxr4FEnYxXhfU6XkXXZSWtJnRTIjGAxf2E4M/edit?usp=sharing
 
 ## 開発環境
 - OS：windows10
